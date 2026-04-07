@@ -14,8 +14,20 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity-coder07&theme=shades-of-purple&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Infinity-coder07&theme=radical)
+## 🚀 My Projects
+
+🌐 **Arko (Portfolio)**
+🔗 https://infinity-coder07.github.io/arko/
+
+🔥 **Infinity Quest**
+🔗 https://infinity-coder07.github.io/infinity-quest/
+
+🛠️ **Infinity Tools**
+🔗 https://infinity-coder07.github.io/infinity-tools/
+
+🧪 **Infinity Elements**
+🔗 https://infinity-coder07.github.io/infinity-elements/
+
 
 
 ### ✍️ Random Dev Quote
